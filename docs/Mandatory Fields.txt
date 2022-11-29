@@ -1,0 +1,8 @@
+1) The mandatory fields are subject, description, status, priority and 
+either i) requester_id(Integer)
+		ii) phone(Integer)
+		iii) email(String)
+
+
+2) The tricky mandatory field is phone,
+-----If you give a "phone": 9952423200, then you have to mention another field "name": "Anyname"
