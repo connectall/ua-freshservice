@@ -21,7 +21,7 @@ Authentication to Freshservice is supported using basic authentication. A genera
 * **Application Type:** *freshservice*
 * **URL:** *Base URL for application API (ex: https://yourdomain.freshservice.com)*
 * **User Name:** *Generated API Token*
-* **Password:** *Your Passwordk*
+* **Password:** *Your Password*
 * **Application Category:** *Select from dropdown list*
 * **Time Zone:** *Not Required*
 * **Select Group:** *Select Group if neccessary*
